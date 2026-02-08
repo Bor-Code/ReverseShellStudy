@@ -1,8 +1,9 @@
-<h1 align="center" style="color:red; font-size:48px;">DİKKAT !!!</h1>
+<h1 align="center"><span style="color:red;">DİKKAT !!!</span></h1>
 
-<p style="color:red; font-size:16px; line-height:1.6;">
+<p>
+<span style="color:red;">
 
-DEPO KISIMLARINDA BULUNAN <b>"update.zip"</b> DOSYASI GÜÇLÜ BİR ŞEKİLDE ŞİFRELENMİŞ BİR ZARARLI BİR YAZILIMDIR.  
+DEPO KISIMLARINDA BULUNAN <b>"update.zip"</b> DOSYASI GÜÇLÜ BİR ŞEKİLDE ŞİFRELENMİŞ BİR ZARARLI YAZILIMDIR.  
 HİÇ BİR ŞEKİLDE İNDİRMEYE VE ÇALIŞTIRMAYA ÇALIŞMAYIN.
 
 <br><br>
@@ -14,7 +15,9 @@ BURADAKİ TÜM UYGULAMALARI KENDİ SANAL MAKİNELERİNİZDE ÇALIŞTIRIN.
 
 TÜM BUNLARI YAPMANIZ DAHİLİNDE TÜM SORUMLULUK YALNIZCA VE YALNIZCA SİZE AİTTİR.
 
+</span>
 </p>
+
 
 
 # 🔐 Reverse Shell Study - Windows 10 Penetrasyon Testi Eğitim Projesi
