@@ -383,7 +383,7 @@ Bu README eğitim amaçlıdır. Gerçek pentest çok daha karmaşıktır ve prof
 Siber güvenlik bilgini iyi amaçlar için kullan. Sistemleri korumak için öğren, zarar vermek için değil.
 
 **Başarılar!** 🚀
+Bor-Code
 
 ---
 
-*Bu dokümantasyon MIT lisansı altındadır.*
