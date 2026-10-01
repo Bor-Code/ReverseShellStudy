@@ -14,7 +14,7 @@
 
 ---
 
-## 📚 BÖLÜM 1: TEMEL BİLGİLER
+## BÖLÜM 1: TEMEL BİLGİLER
 
 ### Reverse Shell Nedir?
 
@@ -220,7 +220,7 @@ exploit
 meterpreter >
 ```
 
-Tebrikler! Sisteme girdin 🎉
+Tebrikler! Sisteme girdin
 
 ### Sistemde Ne Yapabilirsin?
 
@@ -299,7 +299,7 @@ meterpreter > run autoroute -s 10.10.10.0/24
 
 ---
 
-## ⚖️ YASAL UYARILAR
+## YASAL UYARILAR
 
 **ÇOK ÖNEMLİ:**
 - Bu teknikler sadece kendi sistemlerinizde veya izin aldığınız yerlerde kullanılabilir
@@ -335,7 +335,7 @@ meterpreter > run autoroute -s 10.10.10.0/24
 
 ---
 
-## 📝 Hızlı Referans
+## Hızlı Referans
 
 ### Temel Komutlar
 
@@ -376,13 +376,13 @@ ping [ip]
 
 ---
 
-## 🤝 Son Notlar
+## Son Notlar
 
 Bu README eğitim amaçlıdır. Gerçek pentest çok daha karmaşıktır ve profesyonel eğitim gerektirir. 
 
 Siber güvenlik bilgini iyi amaçlar için kullan. Sistemleri korumak için öğren, zarar vermek için değil.
 
-**Başarılar!** 🚀
+**Başarılar!**
 Bor-Code
 
 ---
